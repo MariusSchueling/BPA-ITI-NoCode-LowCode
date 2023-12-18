@@ -1,3 +1,3 @@
 # BPA/ ITI: No-Code/ Low-Code
-Wissensdatenbank vom No-Code/ Low-Code Tool "KNIME".
+Die Wissensdatenbank vom No-Code/ Low-Code Tool "KNIME" ist im Reiter "Wiki" zu finden.
 
